@@ -1,0 +1,6 @@
+.credits__notif__text__link {
+    cursor: pointer;
+    text-decoration: underline;
+    color: var(--brand);
+    font-size: 1rem;
+}
