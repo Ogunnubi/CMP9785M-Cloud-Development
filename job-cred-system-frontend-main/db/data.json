@@ -1,0 +1,209 @@
+{
+  "users": [
+    {
+      "id": "c9c2",
+      "email": "goldenboot29@gmail.com",
+      "username": "golden boot",
+      "credits": 93,
+      "userId": "orYydwqCW8gvnHMV971LHcJ1vgl1"
+    },
+    {
+      "id": "2ec0",
+      "email": "trumpgman@gmail.com",
+      "username": "trump",
+      "credits": 188,
+      "userId": "s9zaftYRLXVIpS80MTG61SKFzyp2"
+    },
+    {
+      "id": "e352",
+      "email": "wayforward@gmail.com",
+      "username": "wayforward",
+      "credits": 134,
+      "userId": "0J4oC3HKPtW84VbTZDKBRJK7Qjz2"
+    },
+    {
+      "id": "1beb",
+      "email": "benitannadi@gmail.com",
+      "username": "benita",
+      "credits": 200,
+      "userId": "PintEUz5OEYyGLSJ4ryttYSeg3F3"
+    },
+    {
+      "id": "9c72",
+      "email": "benitannadi@gmail.com",
+      "username": "benita",
+      "credits": 200,
+      "userId": "Yp248Q8C8UMTRplMIeOXpe9MYmw1"
+    },
+    {
+      "id": "b0c2",
+      "email": "ifeanyigman@gmail.com",
+      "username": "ifeanyi",
+      "credits": 200,
+      "userId": "eXrpbG4SoLdpQ8WkTQYZ4yD9aga2"
+    },
+    {
+      "id": "83d9",
+      "email": "winner@gmail.com",
+      "username": "winner",
+      "credits": 74,
+      "userId": "XZ4wE9I7cjcPFMekgiBUWZN7QwC2"
+    },
+    {
+      "id": "894a",
+      "email": "bandit@gmail.com",
+      "username": "bandit",
+      "credits": 20,
+      "userId": "xqnj5krsLBV0nIWq7pxD5aNNr8d2"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "0903",
+      "title": "spirit portal",
+      "description": "crumble crumble crumble",
+      "credits": 45,
+      "userId": "orYydwqCW8gvnHMV971LHcJ1vgl1"
+    },
+    {
+      "id": "a1be",
+      "title": "Population",
+      "description": "HOA suck in America",
+      "credits": 22,
+      "userId": "orYydwqCW8gvnHMV971LHcJ1vgl1"
+    },
+    {
+      "id": "6d1e",
+      "title": "Sing out loud",
+      "description": "The shed is not approved",
+      "credits": 14,
+      "userId": "orYydwqCW8gvnHMV971LHcJ1vgl1"
+    },
+    {
+      "id": "f5ee",
+      "title": "Bolin",
+      "description": "Lawn Art",
+      "credits": 12,
+      "userId": "orYydwqCW8gvnHMV971LHcJ1vgl1"
+    },
+    {
+      "id": "f44c",
+      "title": "Lawyer Fee",
+      "description": "The HOA lawyer",
+      "credits": 12,
+      "userId": "orYydwqCW8gvnHMV971LHcJ1vgl1"
+    },
+    {
+      "id": "63b4",
+      "title": "new york",
+      "description": "Goodluck to you, sir",
+      "credits": 12,
+      "userId": "orYydwqCW8gvnHMV971LHcJ1vgl1"
+    },
+    {
+      "id": "2846",
+      "title": "Nokia",
+      "description": "Nokia will handle everything",
+      "credits": 12,
+      "userId": "orYydwqCW8gvnHMV971LHcJ1vgl1"
+    },
+    {
+      "id": "04b3",
+      "title": "Nokia",
+      "description": "who is calling my phone",
+      "credits": 12,
+      "userId": "s9zaftYRLXVIpS80MTG61SKFzyp2"
+    },
+    {
+      "id": "6767",
+      "title": "Sweep the Room",
+      "description": "I would love to sweep my room",
+      "credits": 21,
+      "userId": "0J4oC3HKPtW84VbTZDKBRJK7Qjz2"
+    },
+    {
+      "id": "3b03",
+      "title": "Cook Food",
+      "description": "I can cook a lot of meals",
+      "credits": 13,
+      "userId": "0J4oC3HKPtW84VbTZDKBRJK7Qjz2"
+    },
+    {
+      "id": "0a9c",
+      "title": "sleep",
+      "description": "That was an insult",
+      "credits": 12,
+      "userId": "0J4oC3HKPtW84VbTZDKBRJK7Qjz2"
+    },
+    {
+      "id": "eab6",
+      "title": "sleep",
+      "description": "I want to sleep with mia",
+      "credits": 34,
+      "userId": "0J4oC3HKPtW84VbTZDKBRJK7Qjz2"
+    },
+    {
+      "id": "61a2",
+      "title": "Bang Bros",
+      "description": "I am the chief of staff at Bang Bros",
+      "credits": 32,
+      "userId": "0J4oC3HKPtW84VbTZDKBRJK7Qjz2"
+    },
+    {
+      "id": "087b",
+      "title": "spirit portal",
+      "description": "crumble crumble crumble",
+      "credits": 45,
+      "userId": "XZ4wE9I7cjcPFMekgiBUWZN7QwC2"
+    },
+    {
+      "id": "da7d",
+      "title": "spirit portal",
+      "description": "crumble crumble crumble",
+      "credits": 45,
+      "userId": "XZ4wE9I7cjcPFMekgiBUWZN7QwC2"
+    },
+    {
+      "id": "126b",
+      "title": "Population",
+      "description": "HOA suck in America",
+      "credits": 22,
+      "userId": "XZ4wE9I7cjcPFMekgiBUWZN7QwC2"
+    },
+    {
+      "id": "0e30",
+      "title": "Sing out loud",
+      "description": "The shed is not approved",
+      "credits": 14,
+      "userId": "XZ4wE9I7cjcPFMekgiBUWZN7QwC2"
+    },
+    {
+      "id": "eb09",
+      "title": "spirit portal",
+      "description": "crumble crumble crumble",
+      "credits": 45,
+      "userId": "xqnj5krsLBV0nIWq7pxD5aNNr8d2"
+    },
+    {
+      "id": "2967",
+      "title": "spirit portal",
+      "description": "crumble crumble crumble",
+      "credits": 45,
+      "userId": "xqnj5krsLBV0nIWq7pxD5aNNr8d2"
+    },
+    {
+      "id": "fc7b",
+      "title": "spirit portal",
+      "description": "crumble crumble crumble",
+      "credits": 45,
+      "userId": "xqnj5krsLBV0nIWq7pxD5aNNr8d2"
+    },
+    {
+      "id": "6725",
+      "title": "spirit portal",
+      "description": "crumble crumble crumble",
+      "credits": 45,
+      "userId": "xqnj5krsLBV0nIWq7pxD5aNNr8d2"
+    }
+  ]
+}
