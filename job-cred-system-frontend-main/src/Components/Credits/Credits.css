@@ -1,0 +1,230 @@
+.custom-badge {
+    background-color: #28a745;;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 20px;
+}
+
+.credit-input {
+    max-width: 600px;
+    width: 100%;
+    margin: 2rem auto;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+    background: white;
+  }
+  
+  .credit-counter {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 1.5rem 0;
+  }
+  
+  .btn-counter {
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    background: #f8f9fa;
+    border: 1px solid #dee2e6;
+    color: #212529;
+    transition: all 0.2s ease;
+  }
+  
+  .btn-counter:hover {
+    background: #e9ecef;
+    border-color: #ced4da;
+  }
+  
+  .credit-display {
+    flex: 1;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 500;
+    color: #212529;
+    padding: 0.5rem;
+    border: 1px solid #dee2e6;
+    border-radius: 12px;
+    background: #f8f9fa;
+  }
+  
+  .price-display {
+    text-align: center;
+    margin: 1.5rem 0;
+  }
+  
+  .total-price {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #212529;
+    margin-bottom: 0.25rem;
+  }
+  
+  .price-per-credit {
+    color: #6c757d;
+    font-size: 0.875rem;
+  }
+  
+  .btn-purchase {
+    width: 100%;
+    padding: 1rem;
+    font-size: 1.125rem;
+    border-radius: 12px;
+    background: #0d6efd;
+    border: none;
+    transition: all 0.2s ease;
+  }
+  
+  .btn-purchase:hover {
+    background: #0b5ed7;
+    transform: translateY(-1px);
+  }
+
+
+/* Pricing container */
+.pricing-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 2rem;
+    min-height: 100vh;
+    flex-wrap: wrap;
+  }
+  
+  /* Card styles */
+  .pricing-card {
+    background: white;
+    border-radius: 12px;
+    padding: 2rem;
+    width: 300px;
+    position: relative;
+    border: 1px solid #e0e0e0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  
+  .pricing-card.popular::before {
+    content: "Most Popular";
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #10b981;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.875rem;
+    font-weight: 500;
+  }
+  
+  /* Card header */
+  .card-header {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #1f2937;
+  }
+  
+  .credits {
+    font-size: 1.125rem;
+    color: #4b5563;
+  }
+  
+  /* Pricing */
+  .price-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .price {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0px;
+    color: #1f2937;
+  }
+  
+  .price-per-credit {
+    color: #6b7280;
+    font-size: 0.875rem;
+  }
+  
+  /* Button styles */
+  .buy-button {
+    padding: 0.75rem;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+    background: transparent;
+    color: #4b5563;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  
+  .buy-button:hover {
+    background: #f3f4f6;
+  }
+  
+  .buy-button.primary {
+    background: #0066ff;
+    color: white;
+    border: none;
+  }
+  
+  .buy-button.primary:hover {
+    background: #0052cc;
+  }
+  
+  /* Responsive styles */
+  @media (max-width: 1024px) {
+    .pricing-container {
+      gap: 1.5rem;
+      padding: 1.5rem;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .pricing-container {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 2rem;
+    }
+  
+    .pricing-card {
+      width: 100%;
+      max-width: 400px;
+      margin: 0 auto;
+    }
+}  
+
+
+.credit__input {
+  border: none;
+  width: 100%;
+}
+
+.credit__input:focus {
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+
+.credits__notif__text__link {
+  cursor: pointer;
+  text-decoration: underline;
+  color: var(--brand);
+  font-size: 1rem;
+}
